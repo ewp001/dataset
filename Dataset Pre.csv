@@ -1,0 +1,301 @@
+no dok,nama,status,usia ibu,usia kehamilan,tds,tdd,edema,proteinuria,kenaikan berat badan,resiko
+1,Eka Hariyati,Menikah,35,9,170,130,Ya,Tinggi,Tinggi,Eklampsia
+2,Susanti,Menikah,39,6,140,100,Ya,Tinggi,Rendah,Eklampsia
+3,Sela  Afniati,Menikah,18,4,200,80,Ya,Tinggi,Tinggi,Eklampsia
+4,Galuh Gita Wahyu Setyowati,Menikah,16,7,200,150,Tidak,Sangat Tinggi,Normal,Eklampsia
+5,Yulianti Kriswaryani,Menikah,16,3,220,140,Tidak,Tinggi,Tinggi,Eklampsia
+6,Ulva Sentia Lutfi Kurnia Sari,Menikah,40,7,200,140,Ya,Tinggi,Tinggi,Eklampsia
+7,Amalia Dewi Irnadia Illyashintya,Menikah,17,3,170,140,Ya,Sangat Tinggi,Tinggi,Eklampsia
+8,Nining  Widayanti,Single,18,7,200,140,Ya,Tinggi,Normal,Eklampsia
+9,Putri  Kusniawarti,Single,18,4,120,80,Tidak,Sangat Tinggi,Rendah,Eklampsia
+10,Hesti Lailatul Anisah,Menikah,44,9,150,120,Tidak,Sangat Tinggi,Rendah,Eklampsia
+11,Markhalita Rakhma Softwana,Menikah,43,4,120,100,Ya,Sangat Tinggi,Tinggi,Eklampsia
+12,Hidayatul Fitriyani,Menikah,16,3,190,70,Ya,Tinggi,Tinggi,Hamil Normal
+13,Niti Purwati,Menikah,34,5,190,150,Tidak,Tinggi,Rendah,Eklampsia
+14,Ardila Arianti,Menikah,40,4,120,90,Ya,Tinggi,Tinggi,Hamil Normal
+15,Apprilya  Novitasari,Menikah,23,9,210,150,Tidak,Sangat Tinggi,Rendah,Eklampsia
+16,Dewi Septi Anna,Menikah,33,5,150,140,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+17,Nita Ayu Lestari,Single,43,6,120,80,Ya,Tinggi,Rendah,Hamil Normal
+18,Dwi Anggun Pramitasari,Menikah,17,10,200,80,Tidak,Sangat Tinggi,Normal,Eklampsia
+19,Mar Atus Sholichah,Menikah,40,4,200,70,Ya,Tinggi,Tinggi,Eklampsia
+20,Susi Sundari,Menikah,20,3,180,90,Ya,Tinggi,Normal,Hamil Normal
+21,Enny Nur Azizah,Menikah,16,5,140,80,Ya,Tinggi,Tinggi,Hamil Normal
+22,Nurul Lailiyatul Mubarokah,Single,41,7,140,70,Ya,Sangat Tinggi,Rendah,Eklampsia
+23,Amelia Wijayanti,Menikah,44,8,170,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+24,Fitri  Handayani,Menikah,20,10,200,140,Ya,Tinggi,Rendah,Eklampsia
+25,Dika Ayu Astuti,Menikah,45,5,180,160,Tidak,Tinggi,Normal,Eklampsia
+26,Wulan Lokahita Febriani,Menikah,41,5,200,110,Ya,Tinggi,Tinggi,Eklampsia
+27,Nurul  Fikriyanti,Menikah,45,4,160,140,Tidak,Sangat Tinggi,Tinggi,Preeklampsia Ringan
+28,Nela Herlina,Menikah,38,7,160,70,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+29,Siti Mufidah,Menikah,44,3,130,80,Ya,Tinggi,Tinggi,Hamil Normal
+30,Monika Fikri Adabi,Menikah,16,4,130,90,Ya,Sangat Tinggi,Rendah,Eklampsia
+31,Siti Nurhayatun,Single,42,7,160,150,Ya,Tinggi,Tinggi,Eklampsia
+32,Salva Tiara Almanda,Menikah,34,3,160,100,Tidak,Tinggi,Tinggi,Hamil Normal
+33,Nursalamah,Menikah,20,5,210,70,Tidak,Sangat Tinggi,Normal,Eklampsia
+34,Elak Lestari,Menikah,44,8,210,170,Ya,Tinggi,Normal,Eklampsia
+35,Meilani Wiji Septiana,Menikah,38,3,170,150,Tidak,Sangat Tinggi,Normal,Eklampsia
+36,Tria Kartika Ratnasari,Menikah,32,6,220,80,Ya,Tinggi,Tinggi,Eklampsia
+37,Umi  Novi,Menikah,16,3,210,80,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+38,Adissa Dewi Pratiwi,Menikah,20,7,180,90,Ya,Tinggi,Tinggi,Hamil Normal
+39,Izzatinnisak,Menikah,24,3,170,140,Tidak,Tinggi,Rendah,Hamil Normal
+40,Nana Munana,Menikah,41,4,150,140,Ya,Sangat Tinggi,Normal,Eklampsia
+41,Komariyah,Menikah,44,3,160,150,Tidak,Tinggi,Rendah,Eklampsia
+42,Indri Kumalasari,Menikah,17,6,130,90,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+43,Siska Ayu Persada,Menikah,44,6,210,130,Tidak,Tinggi,Tinggi,Eklampsia
+44,Anis  Wahyuningsih,Menikah,41,3,130,90,Ya,Tinggi,Normal,Eklampsia
+45,Pri Mulia Hartami,Menikah,34,6,200,70,Tidak,Tinggi,Tinggi,Eklampsia
+46,Julita Auliya Citra Devy,Single,18,9,200,80,Tidak,Tinggi,Tinggi,Eklampsia
+47,Aulia  Mukharomah,Menikah,22,4,170,160,Ya,Sangat Tinggi,Tinggi,Eklampsia
+48,Putri Rahman,Single,43,3,200,120,Ya,Tinggi,Rendah,Eklampsia
+49,Ita  Alfiyanasari,Menikah,36,9,190,100,Tidak,Tinggi,Normal,Preeklampsia Ringan
+50,Denna Swastika Ratu,Menikah,30,3,210,160,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+51,Shelvia Nada Nurfatia,Menikah,45,4,120,70,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+52,Nasirotus  Sholekhah,Menikah,34,5,120,100,Tidak,Tinggi,Tinggi,Hamil Normal
+53,Sinta Maelana Dewi,Menikah,39,3,160,100,Tidak,Tinggi,Rendah,Hamil Normal
+54,Selvia Agustin,Menikah,21,7,140,130,Ya,Sangat Tinggi,Tinggi,Eklampsia
+55,Istikomawati,Menikah,34,9,200,160,Ya,Sangat Tinggi,Tinggi,Eklampsia
+56,Vitria Nur Hidayati,Menikah,18,5,120,70,Tidak,Tinggi,Tinggi,Hamil Normal
+57,Aini Nuriyah,Menikah,16,4,180,140,Ya,Tinggi,Normal,Hamil Normal
+58,Nadila Yunita Sari,Menikah,37,4,120,80,Ya,Sangat Tinggi,Rendah,Eklampsia
+59,Ulya Mustadz Khoirotul Maula,Menikah,32,6,170,100,Ya,Sangat Tinggi,Tinggi,Eklampsia
+60,Nur Aini,Menikah,40,9,140,100,Ya,Tinggi,Tinggi,Eklampsia
+61,Kofifah Nurul Hidayah,Menikah,16,5,150,90,Tidak,Tinggi,Normal,Hamil Normal
+62,Putri Lana Aulia,Menikah,43,10,210,180,Ya,Tinggi,Tinggi,Eklampsia
+63,Makrifatul Ulfa,Menikah,35,8,150,90,Ya,Sangat Tinggi,Tinggi,Eklampsia
+64,Olda Karismawati,Single,25,7,180,120,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+65,Resdiana Putri Mayasari,Menikah,42,9,160,150,Ya,Tinggi,Tinggi,Eklampsia
+66,Vina Pudji Miyarti,Menikah,20,10,200,180,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+67,Dewi Puspitasari,Menikah,17,3,210,120,Tidak,Tinggi,Normal,Eklampsia
+68,Aini Nurul Fitriani,Menikah,16,7,170,130,Ya,Tinggi,Rendah,Hamil Normal
+69,Setyaning Arum Sari,Menikah,16,7,200,160,Ya,Tinggi,Tinggi,Eklampsia
+70,Reny Ike Wulandari,Menikah,42,6,210,80,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+71,Indria Sri Sundari,Menikah,19,3,200,140,Tidak,Tinggi,Rendah,Eklampsia
+72,Ukuwah Nurma Akhida,Menikah,44,4,210,180,Tidak,Sangat Tinggi,Rendah,Eklampsia
+73,Septian Himmatul Aliyah,Menikah,16,4,140,70,Ya,Sangat Tinggi,Normal,Eklampsia
+74,Kiki Novita,Menikah,37,10,170,80,Ya,Tinggi,Tinggi,Hamil Normal
+75,Maria  Khasanah,Single,16,8,210,70,Tidak,Tinggi,Tinggi,Eklampsia
+76,Dede Afriani,Single,16,3,160,130,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+77,Siska Rindiyani,Menikah,17,9,210,140,Tidak,Tinggi,Normal,Eklampsia
+78,Gita Anggrilla,Single,24,6,150,110,Tidak,Tinggi,Tinggi,Eklampsia
+79,Afiana Nikmatul Maula,Menikah,42,3,200,180,Ya,Tinggi,Tinggi,Eklampsia
+80,Erma  Erfiana,Menikah,42,6,200,180,Tidak,Tinggi,Normal,Eklampsia
+81,Nur Istiani,Menikah,40,10,190,110,Ya,Tinggi,Rendah,Hamil Normal
+82,Rindu Wulan Fitriyani,Menikah,45,6,140,120,Tidak,Tinggi,Tinggi,Hamil Normal
+83,Dian Novita Sari,Menikah,44,8,190,160,Tidak,Tinggi,Tinggi,Eklampsia
+84,Yunda Astari,Menikah,38,4,170,160,Tidak,Tinggi,Rendah,Eklampsia
+85,Nur Atikah,Single,18,10,160,150,Tidak,Tinggi,Tinggi,Eklampsia
+86,Arneta Dwi Saputri,Menikah,41,7,150,110,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+87,Trisna Puji Astuti,Menikah,17,10,180,120,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+88,Kumalasari,Menikah,44,4,120,70,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+89,Syam Nanda Ristyani,Menikah,17,5,120,80,Ya,Sangat Tinggi,Rendah,Eklampsia
+90,Arina Manasika,Menikah,45,9,210,180,Tidak,Tinggi,Tinggi,Eklampsia
+91,Rika Wijiastuti,Menikah,45,4,200,150,Ya,Sangat Tinggi,Tinggi,Eklampsia
+92,Munikah,Single,43,10,160,130,Ya,Sangat Tinggi,Tinggi,Preeklampsia Ringan
+93,Daya  Firmananda,Menikah,38,9,210,80,Ya,Tinggi,Tinggi,Eklampsia
+94,Riska Nurul Khasanah,Single,40,4,130,90,Tidak,Tinggi,Normal,Eklampsia
+95,Lifia Ningsih,Menikah,42,3,200,170,Tidak,Tinggi,Tinggi,Eklampsia
+96,Jihan Dewi Nofiyanti,Single,18,9,130,130,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+97,Yumna Camiliya,Menikah,20,8,140,100,Ya,Tinggi,Tinggi,Hamil Normal
+98,Septianda Dwie Rizky Virdiaputri,Menikah,44,8,180,100,Ya,Tinggi,Rendah,Preeklampsia Ringan
+99,Nurlaila Wulan Saputri,Menikah,36,6,140,130,Tidak,Tinggi,Normal,Hamil Normal
+100,Ayuk  Wulandari,Single,18,6,150,70,Tidak,Tinggi,Normal,Hamil Normal
+101,Khotimatus Sa Adah,Single,37,3,170,90,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+102,Evi Pramudyastuti,Menikah,38,6,180,160,Ya,Sangat Tinggi,Rendah,Eklampsia
+103,Aula Wahyu Sintarma,Menikah,42,4,200,80,Ya,Tinggi,Tinggi,Eklampsia
+104,Dian Fitri,Menikah,16,9,210,140,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+105,Eka Sulistianingsih,Menikah,20,3,180,100,Tidak,Tinggi,Tinggi,Hamil Normal
+106,Nia Anjasari Aulia,Menikah,44,4,130,90,Ya,Tinggi,Tinggi,Eklampsia
+107,Yuni Lestari,Menikah,21,7,130,100,Ya,Sangat Tinggi,Normal,Eklampsia
+108,Ajeng Kartini,Menikah,16,8,200,130,Tidak,Tinggi,Tinggi,Eklampsia
+109,Herlina Istiqomah,Menikah,41,5,210,80,Tidak,Tinggi,Rendah,Eklampsia
+110,Taniel Putri,Menikah,42,4,130,90,Ya,Tinggi,Tinggi,Eklampsia
+111,Rina Dewi Mayangsari,Single,21,4,210,160,Ya,Tinggi,Normal,Eklampsia
+112,Millenia Ayu Cahyani,Menikah,38,10,200,90,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+113,Kusumawati,Single,45,4,150,110,Ya,Sangat Tinggi,Normal,Eklampsia
+114,Sonia Fitri Handayani,Menikah,20,8,120,80,Ya,Sangat Tinggi,Rendah,Eklampsia
+115,Elvi Rodhiyah,Menikah,45,6,220,90,Ya,Tinggi,Rendah,Eklampsia
+116,Nurhayati,Single,42,3,170,130,Ya,Tinggi,Normal,Eklampsia
+117,Nabila Rahma Famuji,Menikah,26,4,170,130,Ya,Tinggi,Normal,Hamil Normal
+118,Lilis  Widiyaningrum,Menikah,21,3,140,110,Tidak,Tinggi,Tinggi,Hamil Normal
+119,Dewi Putri Aningsih,Single,24,4,160,90,Tidak,Tinggi,Normal,Hamil Normal
+120,Siti  Aminah,Menikah,16,5,170,90,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+121,Rizki Novita Anggraini,Menikah,37,6,150,90,Ya,Tinggi,Tinggi,Hamil Normal
+122,Adiyaningsih,Menikah,40,4,120,80,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+123,Ayu Kristiana,Menikah,25,10,120,80,Ya,Tinggi,Rendah,Eklampsia
+124,Wahyuningsih,Menikah,40,8,200,110,Tidak,Sangat Tinggi,Normal,Eklampsia
+125,Okta Viani,Menikah,26,7,210,80,Ya,Tinggi,Tinggi,Eklampsia
+126,Feri  Kristiana,Menikah,18,4,120,110,Ya,Sangat Tinggi,Rendah,Eklampsia
+127,Esperanza Bella Evagana,Menikah,45,4,140,100,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+128,Sekar Suryaningrum,Menikah,16,5,120,80,Tidak,Tinggi,Tinggi,Eklampsia
+129,Metiana Yanuar,Menikah,21,4,200,70,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+130,Oktaviana  Dewi,Menikah,16,10,200,180,Tidak,Tinggi,Tinggi,Eklampsia
+131,Dina Putri Wulandari,Menikah,44,3,180,140,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+132,Ferri Tri Kurniasari,Menikah,31,3,200,80,Ya,Tinggi,Normal,Eklampsia
+133,Mety Indah Sary,Menikah,42,5,120,80,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+134,Yuli  Setiyowati,Menikah,20,10,170,150,Ya,Sangat Tinggi,Tinggi,Eklampsia
+135,Indriyani  Purwaningsih,Menikah,18,7,180,150,Tidak,Tinggi,Normal,Eklampsia
+136,Anis Syah Putri,Menikah,42,3,150,110,Ya,Tinggi,Tinggi,Hamil Normal
+137,Nindia Listiyoningrum,Menikah,32,4,200,80,Tidak,Sangat Tinggi,Rendah,Eklampsia
+138,Nur Sejati,Menikah,42,7,120,90,Tidak,Tinggi,Normal,Hamil Normal
+139,Nella Friska Nuarinda,Single,45,3,160,120,Ya,Sangat Tinggi,Rendah,Eklampsia
+140,Jihan Putri Khamidah,Menikah,43,10,190,170,Ya,Sangat Tinggi,Tinggi,Eklampsia
+141,Asmia Hadi,Menikah,41,9,210,140,Tidak,Tinggi,Normal,Eklampsia
+142,Puput Arum Sari,Single,30,8,150,130,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+143,Siti Alfiaturrokhmaniah,Menikah,40,3,130,110,Tidak,Tinggi,Tinggi,Hamil Normal
+144,Zumrotul Khasanah,Menikah,31,8,200,130,Tidak,Tinggi,Tinggi,Eklampsia
+145,Uswiyatul Choeir,Menikah,42,4,200,150,Ya,Sangat Tinggi,Rendah,Eklampsia
+146,Ika Novita F,Menikah,26,6,140,100,Ya,Tinggi,Rendah,Hamil Normal
+147,Novianingsih,Single,42,10,140,140,Ya,Tinggi,Normal,Hamil Normal
+148,Jovita Christiara,Menikah,29,9,210,70,Tidak,Tinggi,Normal,Eklampsia
+149,Intan Krisnawati,Menikah,21,7,200,170,Tidak,Tinggi,Tinggi,Eklampsia
+150,Shella Adelia,Menikah,43,7,120,100,Tidak,Tinggi,Tinggi,Hamil Normal
+151,Stf Rani Ayu Ratih Setiya K Rr,Menikah,24,3,180,170,Ya,Tinggi,Rendah,Eklampsia
+152,Rizki Amallia Utomo,Menikah,42,9,180,90,Tidak,Tinggi,Tinggi,Hamil Normal
+153,Rizky Wulan Sari,Menikah,42,3,150,120,Tidak,Tinggi,Tinggi,Hamil Normal
+154,Prasmia Paramita,Menikah,43,3,180,80,Tidak,Sangat Tinggi,Rendah,Eklampsia
+155,Fifi Aryanti,Menikah,19,4,170,140,Ya,Sangat Tinggi,Tinggi,Eklampsia
+156,Alimil Agustianti,Menikah,16,4,210,160,Tidak,Tinggi,Tinggi,Eklampsia
+157,Erni Saryanti,Menikah,16,9,180,140,Tidak,Sangat Tinggi,Normal,Eklampsia
+158,Reshelda Harika Nurindra,Menikah,30,4,210,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+159,Eny Aprilia Sari,Menikah,16,7,120,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+160,Mia  Fitriana,Menikah,40,3,170,110,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+161,Rismawati,Single,40,4,160,110,Tidak,Tinggi,Rendah,Hamil Normal
+162,Khusnul Indriani,Menikah,21,3,210,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+163,Widia Princes Chrismonesia,Menikah,24,10,190,170,Ya,Tinggi,Rendah,Eklampsia
+164,Ristya Ningrum,Menikah,19,8,130,90,Ya,Tinggi,Rendah,Eklampsia
+165,Miftahul Jannah,Single,20,7,160,150,Tidak,Tinggi,Tinggi,Eklampsia
+166,Siti  Muyasaroh,Single,18,3,160,80,Tidak,Tinggi,Rendah,Hamil Normal
+167,Santi Nur Aini,Menikah,19,4,200,180,Ya,Tinggi,Rendah,Eklampsia
+168,Emi Sulastri,Menikah,16,4,150,100,Ya,Tinggi,Rendah,Hamil Normal
+169,Rafa Nida Nabila,Menikah,16,4,200,120,Ya,Tinggi,Normal,Eklampsia
+170,Muhammad Mustaqim Nur,Menikah,16,5,180,130,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+171,Trysna Ayu Arivani,Menikah,16,8,150,110,Tidak,Tinggi,Rendah,Eklampsia
+172,Miftakhul Jannah,Menikah,18,4,120,80,Tidak,Tinggi,Tinggi,Hamil Normal
+173,Evi Rahmawati,Menikah,45,7,200,160,Tidak,Tinggi,Tinggi,Eklampsia
+174,Dwi Yuliani,Menikah,16,4,120,80,Tidak,Tinggi,Rendah,Eklampsia
+175,Vivi Wijayanti,Menikah,16,7,160,120,Ya,Sangat Tinggi,Tinggi,Preeklampsia Ringan
+176,Gifta Vyronika,Menikah,19,7,210,100,Ya,Sangat Tinggi,Normal,Eklampsia
+177,Hesti Kusumaningrum,Menikah,34,4,210,140,Tidak,Tinggi,Tinggi,Eklampsia
+178,Erna Setiyo Rini,Menikah,20,4,210,80,Ya,Tinggi,Tinggi,Eklampsia
+179,Lilik Handayani,Menikah,23,9,200,140,Ya,Tinggi,Tinggi,Eklampsia
+180,Vella Saputri,Menikah,20,5,210,90,Ya,Tinggi,Tinggi,Eklampsia
+181,Miftahul Jannah,Menikah,43,6,160,90,Ya,Tinggi,Tinggi,Hamil Normal
+182,Retma Artika,Menikah,42,6,170,120,Tidak,Tinggi,Tinggi,Hamil Normal
+183,Wiwik Andrilianto,Menikah,26,3,190,120,Ya,Sangat Tinggi,Tinggi,Preeklampsia Ringan
+184,Ine Nivea Inggarsari,Menikah,20,6,130,100,Tidak,Tinggi,Rendah,Hamil Normal
+185,Fauziah Hasan,Menikah,18,6,180,70,Ya,Sangat Tinggi,Tinggi,Eklampsia
+186,Indri Risqiana,Menikah,44,7,210,180,Tidak,Sangat Tinggi,Normal,Eklampsia
+187,Ema Meliana,Single,16,3,200,170,Ya,Sangat Tinggi,Tinggi,Eklampsia
+188,Tuti  Uniyati,Menikah,37,10,140,90,Tidak,Tinggi,Tinggi,Hamil Normal
+189,Yulita  Ferdiana,Menikah,30,4,190,150,Tidak,Tinggi,Tinggi,Eklampsia
+190,Novi Kristianingsih,Menikah,37,9,150,110,Ya,Tinggi,Rendah,Hamil Normal
+191,Rizki Yuliningtyas,Single,37,4,190,180,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+192,Anis Tianah Mubarokah,Menikah,42,7,160,110,Tidak,Tinggi,Normal,Hamil Normal
+193,Meli Vidianingsih,Menikah,17,4,190,170,Ya,Tinggi,Rendah,Eklampsia
+194,Egga Sukmawati,Menikah,44,7,200,120,Ya,Tinggi,Tinggi,Eklampsia
+195,Lena  Tirahayu,Menikah,18,6,210,180,Ya,Tinggi,Rendah,Eklampsia
+196,Febreani Fitri Wulandari,Menikah,20,4,140,70,Ya,Tinggi,Tinggi,Hamil Normal
+197,Liya Istikharoh,Single,40,3,210,130,Ya,Sangat Tinggi,Normal,Eklampsia
+198,Tiyas Ayu Tifani,Menikah,43,10,190,70,Ya,Tinggi,Rendah,Preeklampsia Ringan
+199,Evi Nahari Algadry,Menikah,18,7,190,150,Ya,Tinggi,Tinggi,Eklampsia
+200,Dewi Sri Rejeki,Menikah,19,4,130,130,Tidak,Tinggi,Normal,Hamil Normal
+201,Mega Aprilianti,Menikah,19,6,190,180,Ya,Sangat Tinggi,Tinggi,Eklampsia
+202,Isna Hidayati,Single,16,8,180,180,Tidak,Sangat Tinggi,Normal,Eklampsia
+203,Aspiyah,Menikah,33,3,210,130,Ya,Tinggi,Tinggi,Eklampsia
+204,Nur Hidayah,Menikah,16,7,170,130,Ya,Tinggi,Tinggi,Preeklampsia Ringan
+205,Mazidatul Untsa,Menikah,17,4,170,160,Ya,Tinggi,Tinggi,Eklampsia
+206,Aliya Febriliyani,Menikah,35,6,200,150,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+207,Insani  Solekatun,Menikah,34,9,210,160,Tidak,Sangat Tinggi,Normal,Eklampsia
+208,Tri  Maryani,Menikah,45,7,170,80,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+209,Raudina Nurdini Adani,Menikah,45,6,120,100,Ya,Tinggi,Normal,Hamil Normal
+210,Nur Aini Luthfiatunnisa,Menikah,45,8,120,80,Ya,Tinggi,Tinggi,Eklampsia
+211,Lilik Masmunah,Menikah,44,9,200,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+212,Ida Nur Hidayah,Menikah,36,3,200,170,Ya,Sangat Tinggi,Rendah,Eklampsia
+213,Septy Altyas,Menikah,28,7,170,130,Ya,Tinggi,Tinggi,Hamil Normal
+214,Dwike Rahma Gustiara,Menikah,30,3,130,90,Ya,Sangat Tinggi,Normal,Eklampsia
+215,Melyna Ari Damayanti,Single,19,10,200,140,Ya,Tinggi,Normal,Eklampsia
+216,Siti Komariyah,Menikah,17,4,200,130,Ya,Tinggi,Tinggi,Eklampsia
+217,Desi Wulan Suci Ramadhani,Single,42,7,180,160,Tidak,Tinggi,Tinggi,Eklampsia
+218,Indah Kusumadewi,Menikah,20,6,170,140,Ya,Tinggi,Rendah,Hamil Normal
+219,Maya Surya Hhandayani,Menikah,44,5,210,90,Ya,Sangat Tinggi,Tinggi,Eklampsia
+220,Rini Muliyawati,Menikah,24,4,150,80,Ya,Sangat Tinggi,Normal,Eklampsia
+221,Dyah Kusuma Wardani,Menikah,32,7,120,100,Tidak,Tinggi,Normal,Hamil Normal
+222,Malisa  Yussita,Menikah,40,10,200,110,Ya,Tinggi,Normal,Eklampsia
+223,Widarsih,Menikah,16,8,180,70,Ya,Tinggi,Tinggi,Hamil Normal
+224,Apreta Ditya Andika,Menikah,40,6,180,110,Ya,Tinggi,Tinggi,Hamil Normal
+225,Savira Jovanka Ayu Adinda,Menikah,24,4,210,190,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+226,Indah Suparmi,Menikah,28,6,150,130,Ya,Sangat Tinggi,Rendah,Eklampsia
+227,Putri Muasamah,Single,40,7,150,110,Tidak,Tinggi,Tinggi,Eklampsia
+228,Fahrina Maulida Fahmi,Menikah,23,8,200,150,Ya,Tinggi,Rendah,Eklampsia
+229,Luluk  Mauludiyah,Menikah,20,6,130,90,Ya,Tinggi,Normal,Hamil Normal
+230,Eva Agustyaningsih,Menikah,40,3,190,90,Ya,Tinggi,Tinggi,Hamil Normal
+231,Khoirunnisa,Single,44,4,180,160,Ya,Sangat Tinggi,Tinggi,Eklampsia
+232,Laraswirantika,Single,37,4,140,130,Tidak,Tinggi,Tinggi,Hamil Normal
+233,Aditya Saputri,Menikah,25,9,190,90,Ya,Sangat Tinggi,Rendah,Preeklampsia Ringan
+234,Fatimah Tusyahro,Menikah,17,10,210,100,Ya,Tinggi,Rendah,Eklampsia
+235,Deby Oktariani,Menikah,16,4,210,110,Tidak,Sangat Tinggi,Rendah,Eklampsia
+236,Ana Oktafiana,Single,43,5,210,160,Tidak,Tinggi,Rendah,Eklampsia
+237,Nuzlia Hastia,Menikah,40,5,200,140,Ya,Sangat Tinggi,Tinggi,Eklampsia
+238,Indriyani  Setiyaningsih,Single,43,8,200,160,Tidak,Sangat Tinggi,Normal,Eklampsia
+239,Misri Wulan Sari,Menikah,42,8,190,120,Tidak,Tinggi,Normal,Hamil Normal
+240,Kirono Sekar Nilamsari,Menikah,18,10,200,80,Ya,Tinggi,Rendah,Eklampsia
+241,Ita Rusmiyati,Menikah,26,8,200,160,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+242,Dwi Wulan Utami,Menikah,40,7,180,140,Ya,Tinggi,Rendah,Hamil Normal
+243,Mukaromah,Menikah,17,10,200,80,Ya,Tinggi,Tinggi,Eklampsia
+244,Vinda  Audina,Menikah,25,9,200,120,Ya,Sangat Tinggi,Tinggi,Eklampsia
+245,Annisa Maulida,Menikah,16,8,150,140,Ya,Sangat Tinggi,Normal,Eklampsia
+246,Nonik Ayu Cintya,Menikah,44,4,150,110,Ya,Sangat Tinggi,Tinggi,Eklampsia
+247,Linda Yulianti,Menikah,44,4,160,120,Tidak,Tinggi,Rendah,Eklampsia
+248,Nita Puspita Sari,Menikah,38,4,210,180,Tidak,Tinggi,Normal,Eklampsia
+249,Latifa Tri Aprilia,Menikah,36,4,150,120,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+250,Aprillia Fajar Wulandani,Menikah,40,6,200,100,Ya,Tinggi,Tinggi,Eklampsia
+251,Khusna Fahtun Nisa,Menikah,40,8,160,130,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+252,Intan Dewi Sekarsari,Menikah,41,4,210,130,Tidak,Sangat Tinggi,Rendah,Eklampsia
+253,Agnes  Setiyana,Menikah,25,7,200,70,Ya,Sangat Tinggi,Normal,Eklampsia
+254,Meli Agustina,Menikah,44,10,200,70,Tidak,Tinggi,Normal,Eklampsia
+255,Paryani Setyowati,Single,17,4,140,70,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+256,Dwi Fitriyani,Menikah,16,4,200,180,Tidak,Tinggi,Normal,Eklampsia
+257,Triyani,Single,18,3,180,150,Ya,Tinggi,Tinggi,Eklampsia
+258,Santi Bayu Astriawati,Menikah,21,4,210,150,Tidak,Tinggi,Normal,Eklampsia
+259,Rizqi Rohmawati,Menikah,44,7,140,100,Ya,Sangat Tinggi,Tinggi,Eklampsia
+260,Roikhatul Janah,Menikah,43,10,140,100,Tidak,Tinggi,Tinggi,Hamil Normal
+261,Diah Ayu Latifah,Menikah,42,4,170,110,Tidak,Tinggi,Rendah,Hamil Normal
+262,Fitri Apriliana,Menikah,18,5,210,140,Ya,Tinggi,Tinggi,Eklampsia
+263,Sifa Fauziyah,Menikah,45,3,150,110,Tidak,Sangat Tinggi,Rendah,Eklampsia
+264,Umi Latifah,Menikah,17,4,150,140,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+265,Uris Tumul Janah,Menikah,44,9,150,150,Tidak,Sangat Tinggi,Rendah,Eklampsia
+266,Widhiarti,Single,44,9,220,100,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+267,Evika Widiastutik,Single,34,6,150,120,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+268,Salsadilla Mega Safitri,Menikah,20,7,170,90,Ya,Sangat Tinggi,Tinggi,Eklampsia
+269,Kartika  Trisnawati,Single,20,4,200,80,Tidak,Tinggi,Tinggi,Eklampsia
+270,Wulan Nita Rustiyanti,Single,34,5,180,80,Tidak,Tinggi,Tinggi,Hamil Normal
+271,Putri Melin Rosalina,Menikah,42,3,120,90,Tidak,Tinggi,Normal,Hamil Normal
+272,Fatkhiyatul Rohmaniyah,Single,16,9,120,80,Tidak,Tinggi,Tinggi,Eklampsia
+273,Oktabela,Menikah,41,3,170,150,Ya,Sangat Tinggi,Tinggi,Eklampsia
+274,Agnes Dian Puspitasari,Menikah,25,7,200,180,Ya,Tinggi,Tinggi,Eklampsia
+275,Syaikha Nu Uru Hamiyah,Single,19,6,160,100,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+276,Kristina Karyadewi,Menikah,36,7,180,130,Tidak,Tinggi,Tinggi,Preeklampsia Ringan
+277,Rica Purwanti,Menikah,43,7,140,70,Tidak,Sangat Tinggi,Rendah,Eklampsia
+278,Umiyati,Single,36,9,180,70,Ya,Tinggi,Rendah,Preeklampsia Ringan
+279,Rofiatul Hidayah,Menikah,40,7,150,150,Tidak,Tinggi,Tinggi,Eklampsia
+280,Wahyu Puspitasari,Menikah,37,4,210,160,Ya,Tinggi,Normal,Eklampsia
+281,Novita  Trisdayanti,Single,44,6,190,80,Ya,Sangat Tinggi,Tinggi,Eklampsia
+282,Andhani Yunita Febriani,Menikah,42,5,150,100,Ya,Tinggi,Rendah,Hamil Normal
+283,Nur Khofifah,Menikah,19,7,180,70,Tidak,Sangat Tinggi,Normal,Eklampsia
+284,Niftah Setyaningrum,Menikah,41,3,160,120,Tidak,Tinggi,Rendah,Hamil Normal
+285,Fatechatul Ulya,Single,42,5,140,100,Tidak,Tinggi,Tinggi,Eklampsia
+286,Setyo Indah Budiati,Menikah,43,4,160,120,Ya,Sangat Tinggi,Tinggi,Eklampsia
+287,Ayu Novia Dewi,Menikah,32,4,200,160,Tidak,Tinggi,Tinggi,Eklampsia
+288,Mitha Dhialita,Single,42,7,200,100,Ya,Tinggi,Tinggi,Eklampsia
+289,Ari  Sulistiyowati,Menikah,39,4,120,80,Tidak,Tinggi,Tinggi,Eklampsia
+290,Vindi Sri Ratnasari,Menikah,38,5,200,80,Tidak,Tinggi,Tinggi,Eklampsia
+291,Wanda Marizka,Menikah,36,4,130,90,Ya,Tinggi,Normal,Eklampsia
+292,Anisa Romadona,Single,40,10,210,130,Ya,Sangat Tinggi,Tinggi,Eklampsia
+293,Heni Arfiani,Menikah,43,8,210,110,Tidak,Tinggi,Normal,Eklampsia
+294,Mey  Yunitawati,Menikah,20,7,180,150,Tidak,Tinggi,Normal,Eklampsia
+295,Niswatun Khasanah,Menikah,28,10,160,120,Tidak,Tinggi,Tinggi,Eklampsia
+296,Nisrina Afaf,Menikah,41,7,150,100,Tidak,Sangat Tinggi,Tinggi,Eklampsia
+297,Ernawati Ningrum,Menikah,41,7,150,110,Ya,Sangat Tinggi,Tinggi,Eklampsia
+298,Putri Mulyaningrum,Menikah,40,4,140,130,Tidak,Tinggi,Tinggi,Hamil Normal
+299,Mutia Ayu Pratiwi,Menikah,22,10,190,90,Tidak,Tinggi,Tinggi,Hamil Normal
+300,Sri Wahyu Utari,Menikah,16,6,130,90,Ya,Sangat Tinggi,Tinggi,Eklampsia
